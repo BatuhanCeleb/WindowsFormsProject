@@ -1,0 +1,10 @@
+C:\Users\bcelebi\Desktop\BatuÖdev\BatuÖdev\bin\Debug\BatuÖdev.exe.config
+C:\Users\bcelebi\Desktop\BatuÖdev\BatuÖdev\bin\Debug\BatuÖdev.exe
+C:\Users\bcelebi\Desktop\BatuÖdev\BatuÖdev\bin\Debug\BatuÖdev.pdb
+C:\Users\bcelebi\Desktop\BatuÖdev\BatuÖdev\obj\Debug\BatuÖdev.csproj.AssemblyReference.cache
+C:\Users\bcelebi\Desktop\BatuÖdev\BatuÖdev\obj\Debug\BatuÖdev.Form1.resources
+C:\Users\bcelebi\Desktop\BatuÖdev\BatuÖdev\obj\Debug\BatuÖdev.Properties.Resources.resources
+C:\Users\bcelebi\Desktop\BatuÖdev\BatuÖdev\obj\Debug\BatuÖdev.csproj.GenerateResource.cache
+C:\Users\bcelebi\Desktop\BatuÖdev\BatuÖdev\obj\Debug\BatuÖdev.csproj.CoreCompileInputs.cache
+C:\Users\bcelebi\Desktop\BatuÖdev\BatuÖdev\obj\Debug\BatuÖdev.exe
+C:\Users\bcelebi\Desktop\BatuÖdev\BatuÖdev\obj\Debug\BatuÖdev.pdb
